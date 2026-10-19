@@ -2,21 +2,27 @@
 💻 Senior Software Engineer with 10+ years of experience in software development, cloud engineering, and enterprise application modernization. Passionate about building scalable, secure, and reliable applications using Java, Spring Boot, Microservices, AWS, Kubernetes, and DevOps. Exploring Generative AI and building AI-powered applications with LLMs.
 
 🔭 **I'm currently working on:**
+
 Building enterprise applications using Java, Spring Boot, Angular, and AWS, with a focus on cloud-native architecture, Kubernetes, automation, observability, and AI-driven engineering solutions.
 
 🤝 **I'm looking to collaborate on:**
+
 Open-source projects involving Java, Spring Boot, Microservices, AWS, Kubernetes, DevOps automation, cloud-native applications, and Generative AI.
 
 🆘 **I'm looking for help with:**
+
 Production-ready LLM applications, Retrieval-Augmented Generation (RAG), AI agents, LLM evaluation, model fine-tuning, and integrating locally hosted AI models with Spring AI.
 
 🌱 **I'm currently learning:** 
+
 Generative AI, Large Language Models (LLMs), RAG, Model Context Protocol (MCP), AI agents, prompt engineering, LLM evaluation, and advanced cloud-native architecture.
 
 💬 **Ask me about:** 
+
 Java ☕ | Spring Boot 🍃 | Microservices ⚙️ | REST APIs 🔗 | Angular 🅰️ | AWS ☁️ | Kubernetes ☸️ | Docker 🐳 | Helm ⎈ | CI/CD 🚀 | DevOps 🛠️ | Observability 📊 | Generative AI 🤖 | Spring AI 🧠
 
 ⚡ **Fun fact:** 
+
 I love turning complex engineering challenges into practical, automated solutions and experimenting with locally hosted AI models to bring Generative AI into real-world applications! 🚀
 
 
