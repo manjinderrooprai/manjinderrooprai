@@ -26,11 +26,7 @@ Java ☕ | Spring Boot 🍃 | Microservices ⚙️ | REST APIs 🔗 | Angular �
 I love turning complex engineering challenges into practical, automated solutions and experimenting with locally hosted AI models to bring Generative AI into real-world applications! 🚀
 
 ## 🌐 Protfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manjinderrooprai.in)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-2EA44F?style=flat&logo=googlechrome&logoColor=white)](https://manjinderrooprai.in)
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmanjinderrooprai.in&label=Portfolio&logo=googlechrome)](https://manjinderrooprai.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manjinder-rooprai-883110b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rooprai0044@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manjinder.angad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manjinder.angad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MysticMinuteVault) 
