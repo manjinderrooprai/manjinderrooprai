@@ -1,39 +1,229 @@
-# 💫 About Me:
-💻 Senior Software Engineer with 10+ years of experience in software development, cloud engineering, and enterprise application modernization. Passionate about building scalable, secure, and reliable applications using Java, Spring Boot, Microservices, AWS, Kubernetes, and DevOps. Exploring Generative AI and building AI-powered applications with LLMs.
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
 
-🔭 **I'm currently working on:**
+<h3 align="center">
+  Hi, I'm Manjinder Singh Rooprai
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-Building enterprise applications using Java, Spring Boot, Angular, and AWS, with a focus on cloud-native architecture, Kubernetes, automation, observability, and AI-driven engineering solutions.
+<p align="center"><b>An engineer who builds platforms, automates infrastructure, and writes production-grade systems.</b></p>
 
-🤝 **I'm looking to collaborate on:**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Senior+Technologist+%7C+Backend+%26+Platform+Engineering;Java+%7C+Spring+Boot+%7C+Microservices;AWS+EKS+%7C+Kubernetes+%7C+CI%2FCD+%7C+IaC;Generative+AI+%7C+Spring+AI+%7C+RAG+%7C+MCP&center=true&width=650&height=50&font=Fira+Code&pause=1000" alt="Typing SVG">
+</p>
 
-Open-source projects involving Java, Spring Boot, Microservices, AWS, Kubernetes, DevOps automation, cloud-native applications, and Generative AI.
+<p align="center">
+  <a href="https://manjinderrooprai.in"><img src="https://img.shields.io/badge/Portfolio-manjinderrooprai.in-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manjinder-singh-rooprai-883110b9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:rooprai0044@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://youtube.com/@MysticMinuteVault"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://gravatar.com/manjinderrooprai"><img src="https://img.shields.io/badge/Gravatar-Profile-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white" /></a>
+  <a href="https://github.com/manjinderrooprai"><img src="https://img.shields.io/github/followers/manjinderrooprai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</p>
 
-🆘 **I'm looking for help with:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-10%2B_years-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based_in-Bangalore%2C_India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Certified-Architect_Professional-D97757?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
 
-Production-ready LLM applications, Retrieval-Augmented Generation (RAG), AI agents, LLM evaluation, model fine-tuning, and integrating locally hosted AI models with Spring AI.
+## ☀️ About Me
 
-🌱 **I'm currently learning:** 
+Senior Software Engineer with **10+ years** building scalable backend systems and cloud-native platforms on **AWS**. I design enterprise microservices, Kubernetes (EKS) infrastructure, and CI/CD automation for large-scale production systems, and I enjoy removing manual work through automation.
 
-Generative AI, Large Language Models (LLMs), RAG, Model Context Protocol (MCP), AI agents, prompt engineering, LLM evaluation, and advanced cloud-native architecture.
+I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, and agentic workflows.
 
-💬 **Ask me about:** 
+| | |
+|---|---|
+| 🔭 **Working on** | Cloud-native platforms on AWS EKS, one-click Kubernetes provisioning with IaC, observability, and AI-assisted engineering tools. |
+| 🌱 **Learning** | AI agents, MCP, LLM evaluation, prompt engineering, and advanced cloud-native architecture. |
+| 🤝 **Collaborating on** | Open source in Java, Spring Boot, Kubernetes, DevOps automation, and Generative AI. |
+| 🆘 **Looking for help with** | Production-ready LLM apps, RAG, fine-tuning, and running local models with Spring AI. |
+| ⚡ **Fun fact** | I'm also a digital creator, and I write verses. |
 
-Java ☕ | Spring Boot 🍃 | Microservices ⚙️ | REST APIs 🔗 | Angular 🅰️ | AWS ☁️ | Kubernetes ☸️ | Docker 🐳 | Helm ⎈ | CI/CD 🚀 | DevOps 🛠️ | Observability 📊 | Generative AI 🤖 | Spring AI 🧠
+## 🚀 What I Do
 
-⚡ **Fun fact:** 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏗️ Platform Engineering</h3>
+      One-click Kubernetes provisioning on AWS EKS with CloudFormation, Helm, and Jenkins pipelines across Dev, IT, UAT, Stage, and Prod.
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Backend & Microservices</h3>
+      Spring Boot services built for strict SLAs, using Redis caching, CDN strategies, and circuit breakers.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 Generative AI</h3>
+      Spring AI, RAG with vector databases (ChromaDB, MariaDB), MCP integrations, and AI-powered observability.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>📊 Observability & SRE</h3>
+      Prometheus, Grafana, Splunk, and OpenTelemetry, with a focus on availability, latency, fault tolerance, and lower MTTR.
+    </td>
+    <td valign="top">
+      <h3>🔁 Release Engineering</h3>
+      Zero-downtime deployments and rollback strategies. CI/CD and infrastructure automation cut manual intervention by about 70%.
+    </td>
+    <td valign="top">
+      <h3>🧑‍🏫 Mentoring</h3>
+      Coaching engineers on Kubernetes, AWS, CI/CD, and backend best practices.
+    </td>
+  </tr>
+</table>
 
-I love turning complex engineering challenges into practical, automated solutions and experimenting with locally hosted AI models to bring Generative AI into real-world applications! 🚀
+## 💼 Experience
 
-## 🌐 Protfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-2EA44F?style=flat&logo=googlechrome&logoColor=white)](https://manjinderrooprai.in)
+| Period | Role | Focus |
+|---|---|---|
+| **Jun 2025 – Present** | Senior Technologist, Infosys | AI-powered Kubernetes observability: Java 21, Spring AI, LLM-driven anomaly detection and root cause analysis, built as a proof of concept in 4 weeks. |
+| **Dec 2025 – Present** | Senior Technologist, Infosys | Support-content delivery platform: Spring Boot microservices, EKS deployment platform with CloudFormation, Helm, and CI/CD. |
+| **Jun 2019 – Dec 2025** | Specialist Programmer, Infosys | Spring Boot + Angular platform for monitoring AWS at global scale. Onsite in Burnaby, Canada (2023–24). Built internal tooling, an AWS SDK client layer, and cost automation. |
+| **Dec 2016 – Jun 2019** | Senior Software Engineer, Mindtree | Insurance billing system: refunds, disbursements, batch jobs, and UAT/build management. |
+| **Jun 2016 – Dec 2016** | Software Engineer, Mindtree | Java automation for data processing, reporting, and email workflows. |
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manjinder-rooprai-883110b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rooprai0044@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manjinder.angad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manjinder.angad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MysticMinuteVault) 
+## 🛠 Tech Stack
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manjinderrooprai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manjinderrooprai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manjinderrooprai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<details open>
+<summary><b>☕ Languages & Frameworks</b></summary>
+<br>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Groovy](https://img.shields.io/badge/groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, DevOps & Infrastructure</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/argo_cd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Data, Messaging & Security</b></summary>
+<br>
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+</details>
+
+<details open>
+<summary><b>🤖 Generative AI</b></summary>
+<br>
+
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-ChromaDB-FF6F00?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>📊 Observability & Tooling</b></summary>
+<br>
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+## 🎓 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| **Claude Certified Architect – Professional** | Anthropic | Oct 2026 |
+| **Claude Certified Developer – Foundations** | Anthropic | Oct 2026 |
+| **Claude Certified Architect – Foundations** | Anthropic | Sep 2026 |
+| **Claude Certified Associate – Foundations** | Anthropic | Sep 2026 |
+| **AWS AI Practitioner** | Infosys / AWS | Jun 2025 |
+| **Spring Boot Developer** | Infosys | Jun 2025 |
+| **Angular 17** | Infosys | Mar 2024 |
+| **Generative AI Capsule Course** | Infosys | Feb 2024 |
+| **Full Stack AWS Developer Associate** | Infosys | Nov 2023 |
+| **AWS Cloud Practitioner** | Amazon Web Services | Sep 2019 |
+
+<details>
+<summary><b>🏆 Awards & Recognition</b></summary>
+<br>
+
+- Infosys **Insta Award** (2024 ×2, 2026)
+- Infosys **Rise Award – Business Ninja** (Oct 2025)
+- Infosys **Award of Excellence** (Jun 2023)
+- Infosys **Zenith Award – Most Valuable Player** (Jul 2020)
+- Mindtree **Outstanding Performer** (2019), **Mastermind** (2018), and **Unstoppable** (2017) awards
+
+</details>
+
+**🎓 Education:** B.Tech in Information Technology, Chandigarh Engineering College (2012–2016)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/manjinderrooprai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=manjinderrooprai&show_icons=true&theme=dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=manjinderrooprai&show_icons=true&theme=default&hide_border=true" />
+      <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=manjinderrooprai&show_icons=true&theme=default&hide_border=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/manjinderrooprai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=manjinderrooprai&layout=compact&theme=dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=manjinderrooprai&layout=compact&theme=default&hide_border=true" />
+      <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=manjinderrooprai&layout=compact&theme=default&hide_border=true" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=manjinderrooprai&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+## 📬 Let's Connect
+
+💬 **Ask me about:** Java ☕ · Spring Boot 🍃 · Microservices ⚙️ · AWS ☁️ · Kubernetes ☸️ · Helm ⎈ · CI/CD 🚀 · Observability 📊 · Spring AI 🧠 · MCP & RAG 🤖
+
+<p align="center"><em>Turning complex engineering challenges into practical, automated solutions.</em></p>
