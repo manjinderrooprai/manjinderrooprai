@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://manjinderrooprai.in"><img src="https://img.shields.io/badge/Portfolio-manjinderrooprai.in-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/manjinder-singh-rooprai-883110b9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/manjinder-singh-rooprai-883110b9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:rooprai0044@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://youtube.com/@MysticMinuteVault"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/manjinderrooprai"><img src="https://img.shields.io/github/followers/manjinderrooprai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
