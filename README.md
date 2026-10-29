@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
----
-
 ## 💫 About Me
 
 Senior Software Engineer with **10+ years** building scalable backend systems and cloud-native platforms on **AWS**. I design enterprise microservices, Kubernetes (EKS) infrastructure, and CI/CD automation for large-scale production systems, and I enjoy removing manual work through automation.
@@ -43,8 +41,6 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
 | 🤝 **Collaborating on** | Open source in Java, Spring Boot, Kubernetes, DevOps automation, and Generative AI. |
 | 🆘 **Looking for help with** | Production-ready LLM apps, RAG, fine-tuning, and running local models with Spring AI. |
 | ⚡ **Fun fact** | I'm also a digital creator, and I write verses. |
-
----
 
 ## 🚀 What I Do
 
@@ -79,8 +75,6 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
   </tr>
 </table>
 
----
-
 ## 💼 Experience
 
 | Period | Role | Focus |
@@ -90,8 +84,6 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
 | **Jun 2019 – Dec 2025** | Specialist Programmer, Infosys | Spring Boot + Angular platform for monitoring AWS at global scale. Onsite in Burnaby, Canada (2023–24). Built internal tooling, an AWS SDK client layer, and cost automation. |
 | **Dec 2016 – Jun 2019** | Senior Software Engineer, Mindtree | Insurance billing system: refunds, disbursements, batch jobs, and UAT/build management. |
 | **Jun 2016 – Dec 2016** | Software Engineer, Mindtree | Java automation for data processing, reporting, and email workflows. |
-
----
 
 ## 🛠 Tech Stack
 
@@ -175,8 +167,6 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
 
 </details>
 
----
-
 ## 🎓 Certifications
 
 | Certification | Issuer | Date |
@@ -206,8 +196,6 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
 
 **🎓 Education:** B.Tech in Information Technology, Chandigarh Engineering College (2012–2016)
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -232,8 +220,6 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
     <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=manjinderrooprai&theme=dark&hide_border=true" />
   </a>
 </p>
-
----
 
 ## 📬 Let's Connect
 
