@@ -49,11 +49,11 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
   <tr>
     <td width="33%" valign="top">
       <h3>🏗️ Platform Engineering</h3>
-      One-click Kubernetes provisioning on AWS EKS with CloudFormation, Helm, and Jenkins pipelines across Dev, IT, UAT, Stage, and Prod.
+      One-click Kubernetes provisioning on AWS EKS with CloudFormation, Helm charts, and Jenkins pipelines across Dev, IT, UAT, Stage, and Prod. Traffic management through API gateways, Envoy Gateway, and load balancers.
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ Backend & Microservices</h3>
-      Spring Boot services built for strict SLAs, using Redis caching, CDN strategies, and circuit breakers.
+      Spring Boot services built for strict SLAs, using Redis caching, CDN strategies, and circuit breakers. System design for scalable, fault-tolerant distributed systems.
     </td>
     <td width="33%" valign="top">
       <h3>🤖 Generative AI</h3>
@@ -63,7 +63,7 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
   <tr>
     <td valign="top">
       <h3>📊 Observability & SRE</h3>
-      Prometheus, Grafana, Splunk, and OpenTelemetry, with a focus on availability, latency, fault tolerance, and lower MTTR.
+      Prometheus, Grafana, Splunk, and OpenTelemetry, with a focus on availability, latency, fault tolerance, and lower MTTR. Load testing with JMeter, profiling with JProfiler, and security scanning with OWASP ZAP.
     </td>
     <td valign="top">
       <h3>🔁 Release Engineering</h3>
@@ -118,6 +118,10 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/argo_cd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Envoy Gateway](https://img.shields.io/badge/Envoy_Gateway-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![Load Balancer](https://img.shields.io/badge/Load_Balancer-8C4FFF?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Helm Charts](https://img.shields.io/badge/Helm_Charts-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 </details>
 
@@ -165,6 +169,17 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧪 Architecture, Performance & Security</b></summary>
+<br>
+
+![System Design](https://img.shields.io/badge/System_Design-Scalable_Architecture-0891b2?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![JProfiler](https://img.shields.io/badge/JProfiler-Profiling-F57C00?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 
 </details>
 
@@ -224,6 +239,6 @@ I also build with **Generative AI**: Spring AI, RAG architectures, MCP servers, 
 
 ## 📬 Let's Connect
 
-💬 **Ask me about:** Java ☕ · Spring Boot 🍃 · Microservices ⚙️ · AWS ☁️ · Kubernetes ☸️ · Helm ⎈ · CI/CD 🚀 · Observability 📊 · Spring AI 🧠 · MCP & RAG 🤖
+💬 **Ask me about:** Java ☕ · Spring Boot 🍃 · Microservices ⚙️ · AWS ☁️ · Kubernetes ☸️ · Helm Charts ⎈ · API Gateway & Envoy Gateway 🚪 · Load Balancing ⚖️ · System Design 🏛️ · CI/CD 🚀 · Observability 📊 · JMeter, JProfiler & OWASP ZAP 🧪 · Spring AI 🧠 · MCP & RAG 🤖
 
 <p align="center"><em>Turning complex engineering challenges into practical, automated solutions.</em></p>
