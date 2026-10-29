@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
-## 💫 About Me
+## ☀️ About Me
 
 Senior Software Engineer with **10+ years** building scalable backend systems and cloud-native platforms on **AWS**. I design enterprise microservices, Kubernetes (EKS) infrastructure, and CI/CD automation for large-scale production systems, and I enjoy removing manual work through automation.
 
